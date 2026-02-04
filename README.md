@@ -62,5 +62,5 @@ Online job portals are often targeted by scammers posting fake job listings. Thi
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 This project demonstrates a practical NLP-based fraud detection system using machine learning.
